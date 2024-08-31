@@ -21,7 +21,7 @@ public class ActivityTwo {
        
         while(!condition) {
             
-            System.out.println("Choose number of what you want to do");
+            System.out.println("Pick a number of what you want to do");
             System.out.println("0.Exit ");
             System.out.println("1.Push an element input");
             System.out.println("2.Pop an element input");
